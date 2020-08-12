@@ -1,6 +1,6 @@
 # DIM-Guitar
 
-(Did It Myself)DIM Guitar is a DIY full replacement for the oem electronics in a Warriors of Rock Playstation/Xbox Guitar Hero guitar. The result is a wired, Clone Hero compatible guitar. I will possibly be adding custom Fret key files, other 3d printable mounting options (For control board etc) and maybe new body variations that work with the original WoR body.
+(Did It Myself)DIM Guitar is a DIY full replacement for the oem electronics in a Warriors of Rock Playstation/Xbox Guitar Hero guitar. The result is a wired, Clone Hero compatible guitar. I will possibly be adding custom Fret key files, other 3d printable mounting options (For control board etc) and maybe new body variations that work with the original WoR (Warriors of Rock) body.
 
 # Progress
 
