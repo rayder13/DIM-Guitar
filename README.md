@@ -10,13 +10,13 @@ Fretboard
 
 - Prototype pcb done and ordered. The pcb will use Kailh Choc low profile switches instead of the oem rubber membrane keys. This should fix sloppy fret keys and allow for a better feel depending on your preferences with tactile, clicky and linear keys available in the low profile switches.
 - Potential to add led's to each switch for either all on lighting while connected or having the fret light up when pressed.
-- **First Prototype PCB's ETA August 24th. Fingers Crossed.
+- *First Prototype PCB's ETA August 24th. Fingers Crossed.
 
 D-Pad
 
 - Prototypre pcb done and ordered. Utilising the original rubber membrane pad given how little the keys get used.
 - Swapping to mechanical keys might not be easy given the confinement of space.
-- **First Prototype PCB's ETA August 24th. Fingers Crossed.
+- *First Prototype PCB's ETA August 24th. Fingers Crossed.
 
 Strummer
 
