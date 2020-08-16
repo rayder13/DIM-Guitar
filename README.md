@@ -6,6 +6,8 @@
 
 ## Progress
 
+[Update Log](update.md)
+
 Fretboard
 
 - Prototype pcb done and ordered. The pcb will use Kailh Choc low profile switches instead of the oem rubber membrane keys. This should fix sloppy fret keys and allow for a better feel depending on your preferences with tactile, clicky and linear keys available in the low profile switches.
