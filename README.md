@@ -6,7 +6,7 @@
 
 ## Progress
 
-[Update Log](update.md)
+[Update Log](UPDATES.MD)
 
 Fretboard
 
