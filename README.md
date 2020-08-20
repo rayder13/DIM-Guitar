@@ -14,7 +14,7 @@ Fretboard
 - Potential to add led's to each switch for either all on lighting while connected or having the fret light up when pressed.
 - ~~**First Prototype PCB's ETA August 24th. Fingers Crossed.**~~ PCB's arrived 4 days early.
 
-![Image of Prototype fretboard pcb](https://rayder13.github.com/images/FRETBOARD_PCB_0.1.JPG)
+![Image of Prototype fretboard pcb](/images/FRETBOARD_PCB_0.1.JPG)
 
 D-Pad
 
@@ -22,7 +22,7 @@ D-Pad
 - Swapping to mechanical keys might not be easy given the confinement of space.
 - ~~**First Prototype PCB's ETA August 24th. Fingers Crossed.**~~ PCB's arrived 4 days early.
 
-![Image of Prototype dpad pcb](https://rayder13.github.com/images/DPAD_PCB_0.1.JPG)
+![Image of Prototype dpad pcb](/images/DPAD_PCB_0.1.JPG)
 
 Strummer
 
