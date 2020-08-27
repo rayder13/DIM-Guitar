@@ -28,13 +28,18 @@ Strummer
 
 - Prototype pcb in progress. Cherry MX Black version design done but i am waiting for the Kailh Chic low profile switches to show up to decide whether to use them, MX Cherry blacks or Alps keys.
 
+![Image of Prototype dpad pcb](/images/DIM_STRUMMER_FRONT.svg)
+
 Start/Star Power/Whammy
 
 - Prototype pcb in progress. Will likely use Kailh Choc low profile switches as well.
 
+![Image of Prototype dpad pcb](/images/DIM_MID_BOARD_FRONT.svg)
+
 Arduino Controller
 
-- Full working prototype was made on an Arduino Leonardo board. Custom board based on the ATMEGA34U2 mcu will be prototyped after all of the other pcb's are verified working as intended. A full pin hookup guild will be added on full release for anyone who wants to use an existing ATMEGA34U2 board (Arduino pro micro etc) as main controller board.
+- Full working prototype was made on an Arduino Leonardo board. ~~Custom board based on the ATMEGA34U2 mcu will be prototyped after all of the other pcb's are verified working as intended.~~ A full pin hookup guild will be added on full release for anyone who wants to use an existing ATMEGA34U2 board (Arduino pro micro etc) as main controller board.
+- After a bit of consideration the controller board will be a carrier board for an Arduino Pro Micro footprint instead of a custom 34U2 board. This will keep the costs down and realistically for this project there's no point reinventing the wheel.
 
 ## License
 
