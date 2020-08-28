@@ -4,6 +4,8 @@
 
 (Did It Myself)DIM Guitar is a DIY full replacement for the oem electronics in a Warriors of Rock Playstation/Xbox Guitar Hero guitar. The result is a wired Clone Hero compatible guitar (Not console compatible), allowing you to either refurbish an existing guitar (WoR only atm) or create your own guitar from scratch. I will possibly be adding custom Fret key files, other 3d printable mounting options (For control board etc) and maybe new body variations that work with the original WoR (Warriors of Rock) body.
 
+![Image of WoR Guitar](/images/WOR_Guitar.jpg)
+
 ## Progress
 
 [Update Log](UPDATES.md)
@@ -28,13 +30,13 @@ Strummer
 
 - Prototype pcb in progress. Cherry MX Black version design done but i am waiting for the Kailh Chic low profile switches to show up to decide whether to use them, MX Cherry blacks or Alps keys.
 
-![Image of Prototype dpad pcb](/images/DIM_STRUMMER_FRONT.svg)
+![Image of Prototype Strummer pcb](/images/DIM_STRUMMER_FRONT.svg)
 
 Start/Star Power/Whammy
 
 - Prototype pcb in progress. Will likely use Kailh Choc low profile switches as well.
 
-![Image of Prototype dpad pcb](/images/DIM_MID_BOARD_FRONT.svg)
+![Image of Prototype Mid Board pcb](/images/DIM_MID_BOARD_FRONT.svg)
 
 Arduino Controller
 
