@@ -1,5 +1,10 @@
 # Progress
 
+## Pinout
+Below is the proposed pinout for the DIM Guitar based on an Arduino Pro Micro. The board should have enough GPIO's to accomodate the project. Hoping to use the TX/RX pins for future features but we will see how that pans out.
+
+![Image of Pro Micro Pinout](/images/pinout.jpg)
+
 ## Fretboard
 
 - **September 15th 2020** Kailh switches arived today. Had to order a seconf lot directly from Kailh as the switches I originally ordered nearly 8 weeks ago from a reseller still haven't arrived. Turns out my pcb footprint for the switches is flipped horizontally. Not a huge deal as i can just flip the pcb given the only components are switches and the pcb is symmetrical vertically. Plus there are additions to come for the pcb so as long as i have a working prototype i can still progress.
