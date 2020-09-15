@@ -19,13 +19,6 @@
 
 #include <Joystick.h>
 
-//Joystick_ Joystick(JOYSTICK_DEFAULT_REPORT_ID,JOYSTICK_TYPE_GAMEPAD,
-//  8, 0,                 // 6 Fret Buttons, 5 D-Pad Buttons and 2 for up/down strum bar, No Hat Switch
-//  true, false, false,    // X Axis for whammy bar, no Y Z Axis
-//  false, false, false,   // No Rx, Ry, or Rz
-//  false, false,          // No rudder or throttle
-//  false, false, false);  // No accelerator, brake, or steering
-
 Joystick_ Joystick(JOYSTICK_DEFAULT_REPORT_ID,JOYSTICK_TYPE_GAMEPAD,
   15, 0,                 // 6 Fret Buttons, 5 D-Pad Buttons and 2 for up/down strum bar, start and star power, No Hat Switch
   true, false, false,    // X Axis for whammy bar, no Y Z Axis
@@ -93,45 +86,6 @@ void loop() {
     Joystick.setXAxis(whammyPos);
 //    Serial.println(analogRead(A1));
   }
-  
-//  // Read pin values
-//  for (int index = 0; index < 5; index++)
-//  {
-//    int currentButtonState = !digitalRead(index + 2);
-//    if (currentButtonState != lastButtonState[index])
-//    {
-//      switch (index) {
-//        case 0: // Fret 1
-//          Joystick.setButton(0, currentButtonState);
-//          break;
-//        case 1: // Fret 2
-//          Joystick.setButton(1, currentButtonState);
-//          break;
-//        case 2: // Fret 3
-//          Joystick.setButton(2, currentButtonState);
-//          break;
-//        case 3: // Fret 4
-//          Joystick.setButton(3, currentButtonState);
-//          break;
-//        case 4: // Fret 5
-//          Joystick.setButton(4, currentButtonState);
-//          break;
-//        case 5: // Fret 6
-//          Joystick.setButton(5, currentButtonState);
-//          break;
-//        case 6: // Strum Up
-//          Joystick.setButton(6, currentButtonState);
-//          break;
-//        case 7: // Strum Down
-//          Joystick.setButton(7, currentButtonState);
-//          break;
-//        case 8: // Left
-//          Joystick.setButton(8, currentButtonState);
-//          break;
-//      }
-//      lastButtonState[index] = currentButtonState;
-//    }
-//  }
 
   delay(10);
 }
