@@ -1,6 +1,7 @@
 # Progress
 
 ## Pinout
+
 Below is the proposed pinout for the DIM Guitar based on an Arduino Pro Micro. The board should have enough GPIO's to accomodate the project. Hoping to use the TX/RX pins for future features but we will see how that pans out.
 
 ![Image of Pro Micro Pinout](/images/pinout.jpg)
