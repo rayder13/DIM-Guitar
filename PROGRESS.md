@@ -2,7 +2,7 @@
 
 ## Pinout
 
-Below is the proposed pinout for the DIM Guitar based on an Arduino Pro Micro. The board should have enough GPIO's to accomodate the project. Hoping to use the TX/RX pins for future features but we will see how that pans out.
+Below is the proposed pinout for the DIM Guitar based on an Arduino Pro Micro. The board should have enough GPIO's to accommodate the project. Hoping to use the TX/RX pins for future features but we will see how that pans out. Pin 7 is designated Fret 6 for future proofing a fork into GH6 6 fret guitar retro fit.
 
 ![Image of Pro Micro Pinout](/images/pinout.jpg)
 
