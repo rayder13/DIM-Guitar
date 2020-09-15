@@ -1,5 +1,9 @@
 # Update Log
 
+## 15/09/20
+
+- Initial Arduino code commit to github.
+
 ## 16/08/20
 
 - All pcb headers updated to carry 5v for future upgrades (led's etc).
