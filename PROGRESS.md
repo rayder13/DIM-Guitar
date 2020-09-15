@@ -6,6 +6,12 @@ Below is the proposed pinout for the DIM Guitar based on an Arduino Pro Micro. T
 
 ![Image of Pro Micro Pinout](/images/pinout.jpg)
 
+## Working Prototype
+
+Working prototype with D-Pad and Fretboard hooked up.
+
+![Image of current prototype](/images/proto_1.jpg)
+
 ## Fretboard
 
 - **September 15th 2020** Kailh switches arived today. Had to order a second lot directly from Kailh as the switches I originally ordered nearly 8 weeks ago from a reseller still haven't arrived. Turns out my pcb footprint for the switches is flipped horizontally. Not a huge deal as i can just flip the pcb given the only components are switches and the pcb is symmetrical vertically. Plus there are additions to come for the pcb so as long as i have a working prototype i can still progress.
@@ -34,7 +40,7 @@ Below is the proposed pinout for the DIM Guitar based on an Arduino Pro Micro. T
 
 - **September 15th 2020** Kailh switches turned up. I ordered a set of Kailh box dark yellow switches to test for the strummer. They have a cherry footprint but a much thicker stem than normal Cherry switches which i like. Using the same footprint however gives you the ability to chop and change between switches as desired. They are however around 1-2mm shorter than the OEM switches. Might need a hat to make sure the strum bar doesn't feel "loose".
 
-![Image of Kailh box switch compared to OEM](/images/kailh_strummer.jpg)
+![Image of Kailh box switch compared to OEM](/images/kailh_strummer1.jpg)
 
 - Prototype pcb in progress. Cherry MX Black version design done but i am waiting for the Kailh Chic low profile switches to show up to decide whether to use them, MX Cherry blacks or Alps keys.
 
