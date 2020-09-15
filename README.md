@@ -8,40 +8,9 @@
 
 ## Progress
 
-[Update Log](UPDATES.md)
+Check out my [Progress diary](PROGRESS.md) to keep up to date on how the project is going.
 
-Fretboard
-
-- Prototype pcb done and ordered. The pcb will use Kailh Choc low profile switches instead of the oem rubber membrane keys. This should fix sloppy fret keys and allow for a better feel depending on your preferences with tactile, clicky and linear keys available in the low profile switches.
-- Potential to add led's to each switch for either all on lighting while connected or having the fret light up when pressed.
-- ~~**First Prototype PCB's ETA August 24th. Fingers Crossed.**~~ PCB's arrived 4 days early.
-
-![Image of Prototype fretboard pcb](/images/FRETBOARD_PCB_0.1.jpg)
-
-D-Pad
-
-- Prototypre pcb done and ordered. Utilising the original rubber membrane pad given how little the keys get used.
-- Swapping to mechanical keys might not be easy given the confinement of space.
-- ~~**First Prototype PCB's ETA August 24th. Fingers Crossed.**~~ PCB's arrived 4 days early.
-
-![Image of Prototype dpad pcb](/images/DPAD_PCB_0.1.jpg)
-
-Strummer
-
-- Prototype pcb in progress. Cherry MX Black version design done but i am waiting for the Kailh Chic low profile switches to show up to decide whether to use them, MX Cherry blacks or Alps keys.
-
-![Image of Prototype Strummer pcb](/images/DIM_STRUMMER_FRONT.svg)
-
-Start/Star Power/Whammy
-
-- Prototype pcb in progress. Will likely use Kailh Choc low profile switches as well.
-
-![Image of Prototype Mid Board pcb](/images/DIM_MID_BOARD_FRONT.svg)
-
-Arduino Controller
-
-- Full working prototype was made on an Arduino Leonardo board. ~~Custom board based on the ATMEGA34U2 mcu will be prototyped after all of the other pcb's are verified working as intended.~~ A full pin hookup guild will be added on full release for anyone who wants to use an existing ATMEGA34U2 board (Arduino pro micro etc) as main controller board.
-- After a bit of consideration the controller board will be a carrier board for an Arduino Pro Micro footprint instead of a custom 34U2 board. This will keep the costs down and realistically for this project there's no point reinventing the wheel.
+Quick and dirty [Update Log](UPDATES.md).
 
 ## License
 
