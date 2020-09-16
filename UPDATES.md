@@ -1,5 +1,9 @@
 # Update Log
 
+## 16/09/20
+
+- Initial commit for 3D print files. WoR Fret Button added.
+
 ## 15/09/20
 
 - Initial Arduino code commit to github.
