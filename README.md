@@ -10,6 +10,8 @@
 
 Check out my [Progress diary](PROGRESS.md) to keep up to date on how the project is going.
 
+3D Print file [Progress](PRINTED.md).
+
 Quick and dirty [Update Log](UPDATES.md).
 
 ## License
