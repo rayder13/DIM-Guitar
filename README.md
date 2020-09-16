@@ -8,7 +8,7 @@
 
 ## Progress
 
-Check out my [Progress diary](PROGRESS.md) to keep up to date on how the project is going.
+Electronics [Progress](PROGRESS.md) to keep up to date on how the project is going.
 
 3D Print file [Progress](PRINTED.md).
 
