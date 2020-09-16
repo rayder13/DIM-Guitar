@@ -19,8 +19,10 @@
 
 #include <Joystick.h>
 
+const int maxButtons = 15;
+
 Joystick_ Joystick(JOYSTICK_DEFAULT_REPORT_ID,JOYSTICK_TYPE_GAMEPAD,
-  15, 0,                 // 6 Fret Buttons, 5 D-Pad Buttons and 2 for up/down strum bar, start and star power, No Hat Switch
+  maxButtons, 0,                 // 6 Fret Buttons, 5 D-Pad Buttons and 2 for up/down strum bar, start and star power, No Hat Switch
   true, false, false,    // X Axis for whammy bar, no Y Z Axis
   false, false, false,   // No Rx, Ry, or Rz
   false, false,          // No rudder or throttle
@@ -67,12 +69,12 @@ void setup() {
 // const int pinToButtonMap = 2;
 
 // Last state of the buttons
-int lastButtonState[15] = {0,0,0,0,0,0,0,0,0,0,0,0,0,0,0};
+int lastButtonState[maxButtons] = {0,0,0,0,0,0,0,0,0,0,0,0,0,0,0};
 
 void loop() {
 
   // Read pin values
-  for (int index = 0; index < 15; index++)
+  for (int index = 0; index < maxButtons; index++)
   {
 //    int currentButtonState = !digitalRead(index + pinToButtonMap);
     int currentButtonState = !digitalRead(buttonPin[index]);
